@@ -11,7 +11,7 @@ scStaffSize = 20
 
 scTempo = #(ly:make-moment 120 4)
 scTitle = "Fight for Cynnabar"
-scSubtitle = "To the Tune of Nonesuch"
+scSubtitle = \markup { \italic "To the Tune of Nonesuch" }
 scComposer = ""
 scArranger = ""
 scMeter = ""
@@ -31,7 +31,7 @@ scGlobal= {
 
 
 scMinimumSystemSpacing = #28
-
+scMinTopSystemSpacing = #20
 scChords = \chordmode {
   \set chordNameExceptions = #chExceptions
   a4:^3 a1:^3 a:^3 a:^3 a:^3 a:^3 a:^3 a:^3 a:^3
@@ -46,7 +46,7 @@ scMusicOne =   \relative c' {
  \partial 4 e4 | e c d e | c b8[ c] a4 e'4 | e c d e | c2 a4 
  e'4 | e c d e | c b8[ c] a4 e'4 | e c d e | c2 a4 \bar "||" \break 
  c4 b g a b c b a4 c b g a b c2 a4 \bar "" \break
- \overrideProperty Score.NonMusicalPaperColumn.line-break-system-details #'((Y-offset . 85))
+ \overrideProperty Score.NonMusicalPaperColumn.line-break-system-details #'((Y-offset . 88))
   c4 b g a b c b a4 c b g a b a2.
  \bar "|."
 }
@@ -58,7 +58,7 @@ scMusicOne =   \relative c' {
   
 scWordsOneA = \lyricmode {
 \set stanza =  "1."
-Red Black and White our Co -- lors fly 
+Red Black and White our co -- lors fly 
 so proud u -- pon our to -- wer.
 They show to all who fight with us
 our cour -- age and our va -- lor
@@ -74,14 +74,14 @@ scWordsOneB = \lyricmode {
 \set stanza =  "2."
 Our migh -- ty, gi -- ant el -- e -- phant 
 strikes ter -- ror in our foes. __ _
-Im -- pa -- ling knaves u -- pon his tusks
+Im -- pa -- ling knaves u -- pon his tusks,
 their meat shall feed the crows __ _
 }
     
   
 scWordsOneC = \lyricmode {
 \set stanza =  "3."
-Our sweet sain Cyn -- na -- bar -- i -- us
+Our sweet saint Cyn -- na -- bar -- i -- us
 does bless our shi -- ning steel. __ _
 His re -- lics we shall bear on high
 to force our foes to kneel __ _

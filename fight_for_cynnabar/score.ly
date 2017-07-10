@@ -9,7 +9,7 @@
       \paper {
         
           system-system-spacing.minimum-distance = \scMinimumSystemSpacing
-        
+       
         print-page-number = ##f
         print-first-page-number = ##f
         top-margin = 0.5\in
@@ -40,6 +40,9 @@
         copyright = \scCopyright
         tagline = \scTagline
       }
+        \markup {
+        \vspace #1
+    }
       \score {
         \new ChoirStaff <<
          \new ChordNames  { \set chordChanges = ##t \scChords }
