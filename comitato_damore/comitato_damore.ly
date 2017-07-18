@@ -2,10 +2,10 @@
 \header{
   title = "Comitato d'amore"
   subtitle = "Casscarda for couples"
-  poet = "The Committe of Love headed by James Blackcloak"
+  poet = "The Committee of Love headed by James Blackcloak"
   tagline = \jadwigaTagline
   copyright = \jadwigaCopyright
-  meter = "AABB x ?"
+  meter = "AABB x 4"
 }
 
 #(set-default-paper-size "letter")
