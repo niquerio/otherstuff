@@ -1,7 +1,7 @@
 \include "./pp_functions.ly"
 \header{
-  title = "Comitato d'amore"
-  subtitle = "Casscarda for couples"
+  title = "Comitato d'Amore"
+  subtitle = \markup { \italic "Cascarda for couples" }
   poet = "The Committee of Love headed by James Blackcloak"
   tagline = \jadwigaTagline
   copyright = \jadwigaCopyright
@@ -38,7 +38,7 @@ ppMusicOne = \relative c'' {
   }
   \ppMark
   \repeat volta 2 {
-    e4. fs8 g4 fs4. e8 fs4 g4. a8 bf4 bf4 a g e4. fs8 g4 fs4. d8 fs4 g2. g2.
+    e4. fs8 g4 fs4. e8 fs4 g4. a8 bf4 bf4 a g e4. fs8 g4 fs4. e8 fs4 g2. g2.
     }
   
   
