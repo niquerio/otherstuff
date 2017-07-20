@@ -8,7 +8,7 @@ scStaffSize = 19
 
 \include "english.ly"
 
-scTempo = #(ly:make-moment 120 4)
+scTempo = #(ly:make-moment 65 2)
 scTitle = "Passo e Mezzo"
 scSubtitle = "Shawm Edition"
 scComposer = "Anonymous"
