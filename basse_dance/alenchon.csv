@@ -1,0 +1,137 @@
+0, 0, Header, 1, 3, 1024
+1, 0, Start_track
+1, 0, Time_signature, 6, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 0, Tempo, 375000
+1, 6144, Time_signature, 6, 2, 24, 8
+1, 6144, Key_signature, 0, "major"
+1, 12288, Time_signature, 6, 2, 24, 8
+1, 12288, Key_signature, 0, "major"
+1, 18432, Time_signature, 6, 2, 24, 8
+1, 18432, Key_signature, 0, "major"
+1, 24576, Time_signature, 6, 2, 24, 8
+1, 24576, Key_signature, 0, "major"
+1, 30720, Time_signature, 6, 2, 24, 8
+1, 30720, Key_signature, 0, "major"
+1, 36864, Time_signature, 6, 2, 24, 8
+1, 36864, Key_signature, 0, "major"
+1, 43008, Time_signature, 6, 2, 24, 8
+1, 43008, Key_signature, 0, "major"
+1, 49152, Time_signature, 6, 2, 24, 8
+1, 49152, Key_signature, 0, "major"
+1, 55296, Time_signature, 6, 2, 24, 8
+1, 55296, Key_signature, 0, "major"
+1, 61440, Time_signature, 6, 2, 24, 8
+1, 61440, Key_signature, 0, "major"
+1, 67584, Time_signature, 6, 2, 24, 8
+1, 67584, Key_signature, 0, "major"
+1, 73728, Time_signature, 6, 2, 24, 8
+1, 73728, Key_signature, 0, "major"
+1, 79872, Time_signature, 6, 2, 24, 8
+1, 79872, Key_signature, 0, "major"
+1, 86016, Time_signature, 6, 2, 24, 8
+1, 86016, Key_signature, 0, "major"
+1, 92160, Time_signature, 6, 2, 24, 8
+1, 92160, Key_signature, 0, "major"
+1, 98304, Time_signature, 6, 2, 24, 8
+1, 98304, Key_signature, 0, "major"
+1, 104448, Time_signature, 6, 2, 24, 8
+1, 104448, Key_signature, 0, "major"
+1, 110592, Time_signature, 6, 2, 24, 8
+1, 110592, Key_signature, 0, "major"
+1, 116736, Time_signature, 6, 2, 24, 8
+1, 116736, Key_signature, 0, "major"
+1, 122880, Time_signature, 6, 2, 24, 8
+1, 122880, Key_signature, 0, "major"
+1, 129024, Time_signature, 6, 2, 24, 8
+1, 129024, Key_signature, 0, "major"
+1, 135168, Time_signature, 6, 2, 24, 8
+1, 135168, Key_signature, 0, "major"
+1, 141312, Time_signature, 6, 2, 24, 8
+1, 141312, Key_signature, 0, "major"
+1, 147456, Time_signature, 6, 2, 24, 8
+1, 147456, Key_signature, 0, "major"
+1, 153600, Time_signature, 6, 2, 24, 8
+1, 153600, Key_signature, 0, "major"
+1, 159744, Time_signature, 6, 2, 24, 8
+1, 159744, Key_signature, 0, "major"
+1, 165888, Time_signature, 6, 2, 24, 8
+1, 165888, Key_signature, 0, "major"
+1, 172032, Time_signature, 6, 2, 24, 8
+1, 172032, Key_signature, 0, "major"
+1, 178176, Time_signature, 6, 2, 24, 8
+1, 178176, Key_signature, 0, "major"
+1, 184320, Time_signature, 6, 2, 24, 8
+1, 184320, Key_signature, 0, "major"
+1, 190466, End_track
+2, 0, Start_track
+2, 0, Title_t, "Instrument  1"
+2, 0, Program_c, 0, 57
+2, 190466, End_track
+3, 0, Start_track
+3, 0, Title_t, "Trombone"
+3, 0, Program_c, 0, 57
+3, 0, Note_on_c, 0, 57, 64
+3, 6144, Note_off_c, 0, 57, 0
+3, 6144, Note_on_c, 0, 60, 64
+3, 12288, Note_off_c, 0, 60, 0
+3, 12288, Note_on_c, 0, 62, 64
+3, 18432, Note_off_c, 0, 62, 0
+3, 18432, Note_on_c, 0, 57, 64
+3, 24576, Note_off_c, 0, 57, 0
+3, 24576, Note_on_c, 0, 53, 64
+3, 30720, Note_off_c, 0, 53, 0
+3, 30720, Note_on_c, 0, 52, 64
+3, 36864, Note_off_c, 0, 52, 0
+3, 36864, Note_on_c, 0, 50, 64
+3, 43008, Note_off_c, 0, 50, 0
+3, 43008, Note_on_c, 0, 50, 64
+3, 49152, Note_off_c, 0, 50, 0
+3, 49152, Note_on_c, 0, 53, 64
+3, 55296, Note_off_c, 0, 53, 0
+3, 55296, Note_on_c, 0, 57, 64
+3, 61440, Note_off_c, 0, 57, 0
+3, 61440, Note_on_c, 0, 62, 64
+3, 67584, Note_off_c, 0, 62, 0
+3, 67584, Note_on_c, 0, 60, 64
+3, 73728, Note_off_c, 0, 60, 0
+3, 73728, Note_on_c, 0, 57, 64
+3, 79872, Note_off_c, 0, 57, 0
+3, 79872, Note_on_c, 0, 53, 64
+3, 86016, Note_off_c, 0, 53, 0
+3, 86016, Note_on_c, 0, 50, 64
+3, 92160, Note_off_c, 0, 50, 0
+3, 92160, Note_on_c, 0, 52, 64
+3, 98304, Note_off_c, 0, 52, 0
+3, 98304, Note_on_c, 0, 50, 64
+3, 104448, Note_off_c, 0, 50, 0
+3, 104448, Note_on_c, 0, 50, 64
+3, 110592, Note_off_c, 0, 50, 0
+3, 110592, Note_on_c, 0, 53, 64
+3, 116736, Note_off_c, 0, 53, 0
+3, 116736, Note_on_c, 0, 55, 64
+3, 122880, Note_off_c, 0, 55, 0
+3, 122880, Note_on_c, 0, 57, 64
+3, 129024, Note_off_c, 0, 57, 0
+3, 129024, Note_on_c, 0, 57, 64
+3, 135168, Note_off_c, 0, 57, 0
+3, 135168, Note_on_c, 0, 62, 64
+3, 141312, Note_off_c, 0, 62, 0
+3, 141312, Note_on_c, 0, 57, 64
+3, 147456, Note_off_c, 0, 57, 0
+3, 147456, Note_on_c, 0, 53, 64
+3, 153600, Note_off_c, 0, 53, 0
+3, 153600, Note_on_c, 0, 50, 64
+3, 159744, Note_off_c, 0, 50, 0
+3, 159744, Note_on_c, 0, 53, 64
+3, 165888, Note_off_c, 0, 53, 0
+3, 165888, Note_on_c, 0, 52, 64
+3, 172032, Note_off_c, 0, 52, 0
+3, 172032, Note_on_c, 0, 50, 64
+3, 178176, Note_off_c, 0, 50, 0
+3, 178176, Note_on_c, 0, 50, 64
+3, 184320, Note_off_c, 0, 50, 0
+3, 184320, Note_on_c, 0, 50, 64
+3, 190464, Note_off_c, 0, 50, 0
+3, 190466, End_track
+0, 0, End_of_file
