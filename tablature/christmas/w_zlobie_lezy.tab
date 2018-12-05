@@ -1,0 +1,86 @@
+%  w_zlobie_lezy.tab
+$titlefont=pplb
+$titlesize=18
+$alttitlefont=pplr
+$alttitlesize=12
+$textfont=ptmri
+$textsize=10
+$tempo=2
+-tuning f4c3f3a2d2g2
+{^02\CL/W \.zlobie le\.zy}
+{^03/Poland ~ 16th Century}
+{^03/Arr. Monique Rio}
+{^01Tune bottom string 1 whole step down}
+
+-O
+
+2  \2d
+x  d
+b
+x \3\3\3d a
+x  a
+1 dd
+2 c
+x d
+b
+2a   a
+x  \2d
+1a\1c
+2c
+xd
+b
+1\4f   \2e
+x\3d  \1c
+2\1c \2d
+xa
+b
+1 d a
+x     a
+.bb.
+2 \2d
+x c
+b
+2 a   \2f
+x   a
+1 a \3f
+2a
+x \3d
+b
+2 \2c  a
+x   c
+1 cd
+2c
+xa
+b
+
+2 \3d  \1c
+x  a
+1 \1d\4f
+2\2d
+xc
+b
+2a   \3e
+x   c
+1a d
+2c
+xd
+b
+1f   e
+xd  c
+2c d
+xa
+b
+2 \3d  \1c
+x  a
+1 df
+2c
+xd
+b
+1f   a
+xd  c
+2c d
+xa
+b
+1 \3d\2da
+x     a
+.bb
